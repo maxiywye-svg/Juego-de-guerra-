@@ -1,0 +1,6 @@
+{
+  "name": "El Largo Camino a Casa",
+  "description": "Juego militar 2D de supervivencia táctica, mando de destacamentos, comunicaciones por radio y narrativa dinámica con IA ambientado en Normandía, 1944.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
